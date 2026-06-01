@@ -9,9 +9,10 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @connect      weathered-glade-61ab.sfzhr2sxgg.workers.dev
+// @updateURL    https://github.com/vvd5j5hqtk-lgtm/Daemon-Loader/raw/refs/heads/main/daemon-loader.user.js
+// @downloadURL  https://github.com/vvd5j5hqtk-lgtm/Daemon-Loader/raw/refs/heads/main/daemon-loader.user.js
 // @run-at       document-start
 // ==/UserScript==
-
 (function() {
     'use strict';
 
